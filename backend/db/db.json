@@ -1,0 +1,58 @@
+{
+  "cadastrolivros": [
+    {
+      "nome": "fs",
+      "categoria": "Fantasia ",
+      "editora": "Rocco",
+      "autor": "Goofy ahh uncle",
+      "preco": 50,
+      "id": 3
+    }
+  ],
+  "editoras": [
+    {
+      "nome": "Roccos",
+      "site_editora": "https://www.rocco.com.br/",
+      "id": 1
+    },
+    {
+      "nome": "Compania das letras",
+      "site_editora": "companialetras.com",
+      "id": 2
+    }
+  ],
+  "categorias": [
+    {
+      "nome": "OHH",
+      "descricao": "Ma gahh",
+      "id": 1
+    },
+    {
+      "nome": "Fantasia ",
+      "descricao": "Goofy ass category",
+      "id": 2
+    }
+  ],
+  "autores": [
+    {
+      "nome": "hoooh",
+      "obra_p": "Bangalore",
+      "id": 1
+    },
+    {
+      "nome": "Goofy ahh uncle",
+      "obra_p": "quandale nutsack ",
+      "id": 2
+    },
+    {
+      "nome": "C.S. Lewis",
+      "obra_p": "As Cronicas de Narnia",
+      "id": 3
+    },
+    {
+      "nome": "J.K. Rowling",
+      "obra_p": "Harry Potter",
+      "id": 4
+    }
+  ]
+}
